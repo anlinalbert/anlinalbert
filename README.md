@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **C#, RPA, UiPath, SQL, ML, DL**
 
-- 📫 How to reach me **anlinalbert@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_V1_ZIHFyf6TQ1-kKtCz3WORBtx2eb3C/view?usp=drivesdk](https://drive.google.com/file/d/1_V1_ZIHFyf6TQ1-kKtCz3WORBtx2eb3C/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
