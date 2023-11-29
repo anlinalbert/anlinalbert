@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
-<h3 align="center">I am a skilled Software Developer with a strong foundation in C# programming. I have a genuine passion for problem-solving and creating software. I thrive on coding and collaborating with teams to bring software projects to life. I am excited about learning and eager to make valuable contributions to projects while expanding my programming knowledge.</h3>
+<h3 align="center">I'm a passionate Software Developer 🖥️ with an unquenchable thirst for problem-solving and creating amazing software. 💪💻Currently, I'm diving deep into the world of RPA UiPath, where I'm honing my skills and pushing the boundaries of automation. 🚀 I'm determined to make valuable contributions to projects and deliver exceptional results that surpass expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anlinalbert&label=Profile%20views&color=0e75b6&style=flat" alt="anlinalbert" /> </p>
 
