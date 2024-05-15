@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#, RPA, UiPath, SQL, ML, DL**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAGEwFf97ho/2KxDC9p2zoOyIaC1ZZg9Mg/view?utm_content=DAGEwFf97ho&utm_campaign=designshare&utm_medium=link&utm_source=editor
+<p align="left"> <a href="https://www.canva.com/design/DAGEwFf97ho/2KxDC9p2zoOyIaC1ZZg9Mg/view?utm_content=DAGEwFf97ho&utm_campaign=designshare&utm_medium=link&utm_source=editor">- 📄 Know about my experiences</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
