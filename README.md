@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
-<h3 align="center">I'm a passionate Software Developer 🖥️ with an unquenchable thirst for problem-solving and creating amazing software. 💪💻<br><br>Currently, I'm diving deep into the world of RPA UiPath, where I'm honing my skills and pushing the boundaries of automation. 🚀 I'm determined to make valuable contributions to projects and deliver exceptional results that surpass expectations.</h3>
+<h3 align="center">Software Developer with a strong foundation in both front-end and back-end technologies. Experienced in creating robust web applications and automating processes. Committed to continuous learning and staying ahead of industry trends. Skilled in problem-solving and writing efficient, maintainable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anlinalbert&label=Profile%20views&color=0e75b6&style=flat" alt="anlinalbert" /> </p>
 
