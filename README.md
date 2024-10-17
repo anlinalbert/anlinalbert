@@ -7,12 +7,26 @@
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
 <p align="center">Software Developer | Python | RPA | HTML, CSS | ML & DL | Git</p>
 <p align="center">Software Developer with a strong foundation in both front-end and back-end technologies. Experienced in creating robust web applications and automating processes. Committed to continuous learning and staying ahead of industry trends. Skilled in problem-solving and writing efficient, maintainable code.</p>
+<h1></h1>
+<p align="left">Languages and Tools 🛠️</p>
 
-<p align="center">
-  <strong>I'm currently learning Python</strong> 🐍<br>
-  💬 Ask me about <strong>Python, C#, RPA, UiPath, SQL, ML, DL</strong><br><br>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
+
+
+<!-- Design ideas -->
+<!-- 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -43,8 +57,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40" />
   </a>
 </p>
-
-<!-- Design ideas -->
+-->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anlinalbert&label=Profile%20views&color=0e75b6&style=flat" alt="anlinalbert" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anlinalbert" alt="anlinalbert" /></a> </p> 
