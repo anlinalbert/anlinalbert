@@ -1,17 +1,16 @@
+📝 ***Feel free to contact me.*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/anlinalbert?label=Follow%20Me&style=social)](https://github.com/anlinalbert)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-anlinalbert-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/anlinalbert)
+
+<h3 align='center'><strong><a href="https://www.canva.com/design/DAGEwFf97ho/2KxDC9p2zoOyIaC1ZZg9Mg/view?utm_content=DAGEwFf97ho&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Portfolio🌐</a></strong></h3>
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
-<h3 align="center">Software Developer with a strong foundation in both front-end and back-end technologies. Experienced in creating robust web applications and automating processes. Committed to continuous learning and staying ahead of industry trends. Skilled in problem-solving and writing efficient, maintainable code.</h3>
+<p align="center">Software Developer | Python | RPA | HTML, CSS | ML & DL | Git</p>
+<p align="center">Software Developer with a strong foundation in both front-end and back-end technologies. Experienced in creating robust web applications and automating processes. Committed to continuous learning and staying ahead of industry trends. Skilled in problem-solving and writing efficient, maintainable code.</p>
 
 <p align="center">
   <strong>I'm currently learning Python</strong> 🐍<br>
   💬 Ask me about <strong>Python, C#, RPA, UiPath, SQL, ML, DL</strong><br><br>
-  📄 <a href="https://www.canva.com/design/DAGEwFf97ho/2KxDC9p2zoOyIaC1ZZg9Mg/view?utm_content=DAGEwFf97ho&utm_campaign=designshare&utm_medium=link&utm_source=editor">Know about my experiences</a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/anlinalbert" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -45,6 +44,7 @@
   </a>
 </p>
 
+<!-- Design ideas -->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anlinalbert&label=Profile%20views&color=0e75b6&style=flat" alt="anlinalbert" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anlinalbert" alt="anlinalbert" /></a> </p> 
