@@ -2,6 +2,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-anlinalbert-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/anlinalbert)
+[![Gmail](https://img.shields.io/badge/Gmail-anlinalbert-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:anlinalbert@gmail.com)
 
 <h3 align='center'><strong><a href="https://www.canva.com/design/DAGEwFf97ho/2KxDC9p2zoOyIaC1ZZg9Mg/view?utm_content=DAGEwFf97ho&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Portfolio🌐</a></strong></h3>
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
