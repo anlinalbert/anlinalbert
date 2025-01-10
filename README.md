@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-anlinalbert-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/anlinalbert)
 [![Gmail](https://img.shields.io/badge/Gmail-anlinalbert-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:anlinalbert@gmail.com)
 
-<!--<h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>-->
+<h3 align='center'><strong><a href="https://docs.google.com/document/d/e/2PACX-1vTDIKaxqCbjrSYDkmPy_77uEbDyJdnNrkbPCOFsEv1IdAvd8uMmaJ9aB9lP4j0SOPd10XKefpNqBlAN/pub" target="_blank">Portfolio🌐</a></strong></h3>
 <h1 align="center">Hi 👋, I'm Anlin Albert</h1>
 <p align="center">Software Developer | Python | RPA | HTML, CSS | ML & DL | Git</p>
 <p align="center">Software Developer with a strong foundation in both front-end and back-end technologies. Experienced in creating robust web applications and automating processes. Committed to continuous learning and staying ahead of industry trends. Skilled in problem-solving and writing efficient, maintainable code.</p>
